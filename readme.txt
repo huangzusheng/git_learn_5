@@ -3,3 +3,4 @@
 3 git is a gpl software.
 4 i have learn git.
 5 create dev branch.
+6 i have a good job
