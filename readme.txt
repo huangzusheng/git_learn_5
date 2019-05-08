@@ -4,3 +4,4 @@
 4 i have learn git.
 5 create dev branch.
 6 i have a good work
+7 deal dev,have issue
